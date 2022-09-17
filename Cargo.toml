@@ -11,4 +11,4 @@ keywords = ["no_std", "kernel", "interrupts"]
 license = "Apache-2.0/MIT"
 
 [dependencies]
-cpuio = { path="../cpuio" }
+cpuio = { git="https://github.com/Luis-Hebendanz/cpuio" }
